@@ -1,0 +1,4 @@
+SELECT
+*      // selectionne toutes les colonnes 
+FROM 
+octocats

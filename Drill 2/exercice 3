@@ -1,0 +1,4 @@
+SELECT
+firstname ,lastname ,age  // je veux afficher les prenoms , noms et age de chaque octocats
+FROM 
+octocats

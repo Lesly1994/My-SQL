@@ -1,0 +1,6 @@
+SELECT
+firstname, lastname   // interroger ses 2 colonnes 
+FROM 
+octocats
+WHERE 
+promo = "promo1-central" 

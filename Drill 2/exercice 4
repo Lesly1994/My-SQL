@@ -1,0 +1,6 @@
+SELECT
+lastname
+FROM 
+octocats
+WHERE 
+lastname LIKE 'N%'

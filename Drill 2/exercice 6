@@ -1,0 +1,6 @@
+SELECT
+firstname, lastname, age 
+FROM 
+octocats
+WHERE 
+promo = "promo1-anderlecht" 
