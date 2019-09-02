@@ -1,0 +1,5 @@
+SELECT
+firstname, lastname
+FROM 
+octocats
+ORDER BY lastname ASC   // dans l'ordre croissant des noms 

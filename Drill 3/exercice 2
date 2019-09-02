@@ -1,0 +1,5 @@
+SELECT
+firstname, lastname
+FROM 
+octocats
+ORDER BY lastname DESC // dans l'odre décroissans des noms 

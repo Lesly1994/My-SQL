@@ -1,0 +1,7 @@
+SELECT 
+firstname, lastname, age
+FROM 
+octocats
+WHERE
+promo = "promo1-central" // dans la promo1-central du plus jeune au plus vieux 
+ORDER BY age DESC

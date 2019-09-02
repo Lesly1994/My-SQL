@@ -1,0 +1,8 @@
+SELECT 
+firstname, lastname, age
+FROM 
+octocats
+WHERE
+promo = "promo1-central"AND gender = "M" AND 
+age BETWEEN 25 AND 35
+ORDER BY age ASC

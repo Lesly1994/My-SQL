@@ -1,0 +1,8 @@
+SELECT 
+firstname, lastname, age
+FROM 
+octocats
+WHERE
+promo = "promo1-central"
+ORDER BY age DESC
+LIMIT 1 // octocats le plus agé de la promo Becode/Central (donc limité a 1 personne)

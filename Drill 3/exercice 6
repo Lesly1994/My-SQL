@@ -1,0 +1,8 @@
+SELECT 
+firstname, lastname, age
+FROM 
+octocats
+WHERE
+promo = "promo1-central" AND // dans la promo1-central
+age BETWEEN 23 AND 28 // agé entre 23 et 28 ans 
+ORDER BY age ASC  // du plus jeune au plus vieux 

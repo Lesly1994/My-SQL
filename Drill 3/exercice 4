@@ -1,0 +1,5 @@
+SELECT 
+firstname, lastname, age
+FROM 
+octocats
+ORDER BY age DESC // du plus vieux au plus jeune 
