@@ -1,0 +1,4 @@
+SELECT 
+firstname, year(birthdate) // year() permet d'afficher l'année d'un élément 
+FROM 
+octocats

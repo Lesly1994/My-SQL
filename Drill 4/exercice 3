@@ -1,0 +1,7 @@
+SELECT 
+count(*)
+FROM 
+octocats
+WHERE
+promo = "promo1-central" AND
+gender = "M"

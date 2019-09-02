@@ -1,0 +1,4 @@
+SELECT 
+MIN(haut) 
+FROM
+Météo

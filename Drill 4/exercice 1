@@ -1,0 +1,6 @@
+SELECT 
+count(*) // permet d'enregistrer le nombre d'enregistrement dans une table 
+FROM 
+octocats
+WHERE
+gender = "M" 

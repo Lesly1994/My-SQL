@@ -1,0 +1,4 @@
+SELECT 
+MAX(haut) 
+FROM
+Météo
