@@ -1,0 +1,11 @@
+
+CREATE TABLE Météo
+    (`ville` varchar(9), `haut` int, `bas` int)
+;
+
+INSERT INTO Météo 
+    (`ville`,`haut`, `bas`)
+VALUES
+    (`Courcelles`, 21, 11)
+;
+// Inserer une nouvelle donnée dans la table
