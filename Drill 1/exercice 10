@@ -1,0 +1,6 @@
+SELECT 
+ville 
+FROM 
+Météo
+WHERE
+bas = 14 OR bas = 16 // minimal est = a 14 ou = a 16 

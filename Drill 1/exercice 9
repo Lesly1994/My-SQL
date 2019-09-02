@@ -1,0 +1,6 @@
+SELECT 
+ville 
+FROM 
+Météo
+WHERE
+haut BETWEEN '26' AND '28' // se situe entre valeur1 et valeur2

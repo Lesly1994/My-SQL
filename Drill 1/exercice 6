@@ -1,0 +1,6 @@
+SELECT 
+ville 
+FROM 
+Météo
+WHERE
+bas = 15

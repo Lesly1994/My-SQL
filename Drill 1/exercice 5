@@ -1,0 +1,6 @@
+SELECT 
+ville 
+FROM 
+Météo
+WHERE
+bas <= 15  // dans la colonne 'bas' inférieur ou égal à 15

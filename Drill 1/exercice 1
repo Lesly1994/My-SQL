@@ -1,0 +1,4 @@
+SELECT // selectionne la colonne que l'on veut
+ville
+FROM // selectionne la table que l'on veut interroger
+Météo

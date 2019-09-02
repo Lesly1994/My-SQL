@@ -1,0 +1,7 @@
+SELECT 
+ville 
+FROM 
+Météo
+WHERE
+ville LIKE 'Br%' //  LIKE est utilisé dans la clause WHERE 
+// Possible de rechercher les enregistrements dont la valeur d’une colonne commence par telle ou telle lettre.

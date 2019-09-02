@@ -1,0 +1,4 @@
+SELECT 
+ville , haut 
+FROM 
+Météo

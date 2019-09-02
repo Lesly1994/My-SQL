@@ -1,0 +1,6 @@
+SELECT 
+ville 
+FROM 
+Météo
+WHERE // Cela permet d’obtenir uniquement les informations désirées.
+haut > 27  // dans la colonne haut supérieur à 27

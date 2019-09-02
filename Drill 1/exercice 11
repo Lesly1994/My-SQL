@@ -1,0 +1,6 @@
+SELECT 
+ville 
+FROM 
+Météo
+WHERE
+haut >= 26 AND bas < 14 // maximal supérieur ou égal a 26 et minima inférieur a 14
